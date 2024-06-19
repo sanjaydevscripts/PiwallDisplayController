@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354542246892",
+    "project_id": "pdcdb-ed421",
+    "storage_bucket": "pdcdb-ed421.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354542246892:android:ef9a31cb627a93c442fec9",
+        "android_client_info": {
+          "package_name": "com.example.pdc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-c349EgsnDLNsKBGgW1ExvyMSAvog4VQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
