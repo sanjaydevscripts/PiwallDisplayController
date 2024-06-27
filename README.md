@@ -1,16 +1,16 @@
 # pdc
 
-A new Flutter project.
+mini project
 
-## Getting Started
+## INTRO
 
-This project is a starting point for a Flutter application.
+The PiWall Display Controller is a project focused on creating a versatile tool for managing content across multiple displays. 
+This system aims to simplify control and overcome limitations of the current system, such as the inability to control displays over a remote distance. 
+This project tackles this limitation by creating a versatile tool that seamlessly integrates Flutter's user-friendly interface with Python's robust backend.  
 
-A few resources to get you started if this is your first Flutter project:
+The PiWall Display Controller comprises several modules that work together to achieve seamless content management and display control. These modules include:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# User Interface Module (Implemented using Flutter)
+# Content Management Module (Interacting with   Firebase Database)
+# Network Communication Module
+# Display Control Module (Utilizing Raspberry Pi)
