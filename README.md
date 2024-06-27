@@ -14,3 +14,11 @@ The PiWall Display Controller comprises several modules that work together to ac
 - Content Management Module (Interacting with   Firebase Database)
 - Network Communication Module
 - Display Control Module (Utilizing Raspberry Pi)
+
+###TO RUN
+connect rpi with display(rpi have memory with rpi os and that condain main.py file).rpi also connect to ethernet keyboard and mouse.
+run the flutter app,upload one video,click one video that run in the display as soon.
+# To run python code
+open terminal in rpi os ,python main.py
+it automatically create ngrok url save it in firebase
+
