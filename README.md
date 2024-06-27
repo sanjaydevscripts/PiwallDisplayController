@@ -10,7 +10,7 @@ This project tackles this limitation by creating a versatile tool that seamlessl
 
 The PiWall Display Controller comprises several modules that work together to achieve seamless content management and display control. These modules include:
 
-# User Interface Module (Implemented using Flutter)
-# Content Management Module (Interacting with   Firebase Database)
-# Network Communication Module
-# Display Control Module (Utilizing Raspberry Pi)
+- User Interface Module (Implemented using Flutter)
+- Content Management Module (Interacting with   Firebase Database)
+- Network Communication Module
+- Display Control Module (Utilizing Raspberry Pi)
