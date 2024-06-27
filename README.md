@@ -15,7 +15,7 @@ The PiWall Display Controller comprises several modules that work together to ac
 - Network Communication Module
 - Display Control Module (Utilizing Raspberry Pi)
 
-###TO RUN
+#TO RUN
 connect rpi with display(rpi have memory with rpi os and that condain main.py file).rpi also connect to ethernet keyboard and mouse.
 run the flutter app,upload one video,click one video that run in the display as soon.
 # To run python code
