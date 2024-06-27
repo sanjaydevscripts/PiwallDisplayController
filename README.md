@@ -24,4 +24,5 @@ run the flutter app,upload one video,click one video that run in the display as 
 
 open terminal in rpi os ,python main.py
 it automatically create ngrok url save it in firebase
+(first run python code then select video in app)
 
